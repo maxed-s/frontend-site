@@ -1,1 +1,1 @@
-First file
+This is the repository of the MaxedS frontend. 
